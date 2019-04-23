@@ -1,0 +1,7 @@
+prix  : 77777
+adresse : jul
+reference du client : 34
+numero :1
+Terrain 
+Constructible ? :0
+

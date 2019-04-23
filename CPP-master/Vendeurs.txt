@@ -1,0 +1,3 @@
+Le nom du client est :yyyy
+L'adresse du client est :azer
+
